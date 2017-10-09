@@ -1,4 +1,4 @@
 # frontpage
 
-The frontpage for navybluemath
+The frontpage for navybluemath website
 
